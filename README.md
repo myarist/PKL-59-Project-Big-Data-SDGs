@@ -8,9 +8,12 @@
 
 # Research Topics
 
-## 1. AirQuality
+## AirQuality [🔍](AirQuality)
 
-![Background](README/AirQuality 1.png)
+![Background](README/AirQuality%201.png)
+![Methodology and Analytics](README/AirQuality%202.png)
 
-## 2. Land Cover (NDVI)
+## Land Cover (NDVI) [🔍](NDVI)
 
+![Background](README/NDVI%201.png)
+![Methodology and Analytics](README/NDVI%202.png)
