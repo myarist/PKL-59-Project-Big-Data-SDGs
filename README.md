@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="README/Logo PKL.png" data-canonical-src="README/Logo PKL.png" width="150" height="150" />
-  </br></br>
+  </br>
   
   <h1>PKL 59 Project Big Data SDGs</h1>
  
