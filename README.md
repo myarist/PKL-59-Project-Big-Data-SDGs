@@ -6,6 +6,7 @@
  
   <p>Several project codes were generated from PKL 59 Polstat STIS activities which took place in Yogyakarta</p>
 
+</center>
 
 # Research Topics
 
@@ -18,5 +19,3 @@
 
 ![Background](README/NDVI%201.png)
 ![Methodology and Analytics](README/NDVI%202.png)
-
-</center>
